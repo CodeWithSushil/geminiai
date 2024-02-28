@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "google-gemini-php/client",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/google-gemini-php/client.git",
-                "reference": "1db9396dcb9bc269c511b3eacee3c97f4d6ac3be"
+                "reference": "6e48284f7d432c5b92622e5a992f127d59aaf6ef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/google-gemini-php/client/zipball/1db9396dcb9bc269c511b3eacee3c97f4d6ac3be",
-                "reference": "1db9396dcb9bc269c511b3eacee3c97f4d6ac3be",
+                "url": "https://api.github.com/repos/google-gemini-php/client/zipball/6e48284f7d432c5b92622e5a992f127d59aaf6ef",
+                "reference": "6e48284f7d432c5b92622e5a992f127d59aaf6ef",
                 "shasum": ""
             },
             "require": {
@@ -65,9 +65,9 @@
             ],
             "support": {
                 "issues": "https://github.com/google-gemini-php/client/issues",
-                "source": "https://github.com/google-gemini-php/client/tree/1.0.2"
+                "source": "https://github.com/google-gemini-php/client/tree/1.0.3"
             },
-            "time": "2024-02-17T09:29:01+00:00"
+            "time": "2024-02-27T05:14:50+00:00"
         },
         {
             "name": "guzzlehttp/guzzle",
